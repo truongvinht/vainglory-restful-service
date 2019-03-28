@@ -1,0 +1,9 @@
+# ignore following folders and files
+.DS_Store
+.vscode
+
+# NodeJS specific
+node_modules
+package-lock.json
+doc
+out
